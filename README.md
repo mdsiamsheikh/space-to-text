@@ -1,4 +1,4 @@
-# Voice-to-text transcription app
+# Voice-to-text transcription App
 
 
 This is a web app 
